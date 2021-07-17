@@ -18,3 +18,4 @@ I merged all the three datasets into one. I did some Data Exploration on various
 
 ## [Task 3 - Data Presentation:-](https://github.com/rishigundla/KPMG_Data_Analytics_Consulting_Virtual_Internship/tree/main/Task%203%20-%20Data%20Presentation)
 In this task, I used Tableau to develop a detailed interactive dashboard for gaining insights from datasets.
+[Click here to check the Tableau Viz](https://public.tableau.com/views/SprocketCentralDashboardwithDataset/SprocketCentralDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
