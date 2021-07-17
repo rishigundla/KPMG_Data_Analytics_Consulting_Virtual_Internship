@@ -15,3 +15,6 @@ In the given three datasets, I discovered numerous data quality issues and clean
 In this task, the client asked to recommend which of these 1000 customers should be targeted to drive the most value for the organization. The proposed strategy was broken down into three stages: Data Exploration, Model Development and Interpretation.
 
 I merged all the three datasets into one. I did some Data Exploration on various field to gain some insights i.e gender, age groups, industry etc. For Model Development, RFM Analysis was used to perform customer segmentation to target the high value customers to boost the business growth. Finally, I created a complete Microsoft Power Point presentation that included all of the material mentioned above. All of the files are in the Task 2 folder.
+
+### Task 3 - Data Presentation:-
+In this task, I used Tableau to develop a detailed interactive dashboard for gaining insights from datasets.
